@@ -4,6 +4,5 @@ game 'gta5'
 author 'vicktorviggo'
 version '1.0.0'
 
-client_script 'client.lua'
+shared_scripts 'config.lua'
 server_script 'server.lua'
-shared_script 'shared.lua'

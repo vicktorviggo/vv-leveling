@@ -1,3 +1,3 @@
-Config = Config or {}
+Config = {}
 
 Config.Debug = false
