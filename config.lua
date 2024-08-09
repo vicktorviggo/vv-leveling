@@ -1,3 +1,3 @@
 Config = {}
 
-Config.Debug = false
+Config.DebugPrints = true
